@@ -37,3 +37,7 @@ h1 {
     display: flex;
     justify-content: space-around;
 }
+
+h2 {
+    color: black;
+    font-size: small;
